@@ -1,0 +1,9 @@
+# 换行符：脚本必须 CRLF（cmd 依赖），源码与文档用 LF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ico binary
+*.png binary
+*.zip binary
