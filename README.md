@@ -36,7 +36,9 @@
 
 ### 方式一：直接用客户端（推荐，无需 Python）
 
-1. 下载/拿到 `WxPopup` 文件夹（`WxPopup.exe` + `_internal\`），解压到**纯英文路径**，例如 `D:\WxPopup`
+**下载**：到 [Releases](https://github.com/shiqi4417-ctrl/WxPopup/releases/latest) 拿 `WxPopup-vX.Y.Z-win64.zip`（约 22 MB，解压后 50 MB）。
+
+1. 解压到**纯英文路径**，例如 `D:\WxPopup`
 2. 双击 `WxPopup.exe`。首次启动会花 3~8 秒扫内存取密钥，之后走缓存秒开
 3. 详细说明见 [说明.md](说明.md)
 
